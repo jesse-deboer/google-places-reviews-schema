@@ -10,9 +10,10 @@
   "author": "Jesse de Boer",
   "license": "MIT",
   "dependencies": {
-    "apollo-server": "^2.6.7",
+    "apollo-server": "^2.19.1",
     "esm": "^3.2.25",
-    "graphql": "^14.4.2",
-    "node-fetch": "^2.6.0"
+    "graphql": "^14.7.0",
+    "graphql-tag": "^2.11.0",
+    "node-fetch": "^2.6.1"
   }
 }
